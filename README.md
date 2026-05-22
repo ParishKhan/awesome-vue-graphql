@@ -55,6 +55,7 @@
 ## Tutorials
 
 > Awesome tutorials for using GraphQL with Vue
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - VueJS
   - [Vue + Apollo Tutorial](https://learn.hasura.io/graphql/vue)
   - [Getting Started with VueJS](https://medium.freecodecamp.org/a-quick-introduction-to-vue-js-72937ee8880d)
